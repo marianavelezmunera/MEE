@@ -13,3 +13,5 @@ Murcis$Localidad<-as.factor(Murcis$Localidad)
 Murcis$Encargado<-as.factor(Murcis$Encargado)
 Murcis$Especie<-as.factor(Murcis$Especie)
 Murcis$Sexo<-as.factor(Murcis$Sexo)
+
+
