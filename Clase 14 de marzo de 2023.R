@@ -13,3 +13,10 @@ library(naniar)
 library(tidyquant)
 
 ## Datos 
+
+# facet_wrap() sirve para hacer varias gráficas de lo mismo en función de otra variable
+
+# Tarea
+
+#Hacer los gráficos de diagnóstico, densidad, dispersión (x vs y)
+# Codigo y gráficas en PDF
